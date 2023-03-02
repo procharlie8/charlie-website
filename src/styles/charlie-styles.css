@@ -1,0 +1,18 @@
+h1 {
+  color: aqua;
+  font-size: 3rem;
+}
+
+html {
+  background-color: indigo;
+}
+
+body {
+  background-color: darkolivegreen;
+}
+
+#heading-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
