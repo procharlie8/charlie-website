@@ -6,6 +6,7 @@ function addDiv() {
   testElement.appendChild(div);
 }
 
-function logc() {
-  console.log("charlie");
+function logc(paramter1, paramter2) {
+  var space = " ";
+  console.log(paramter1 + space + paramter2);
 }
